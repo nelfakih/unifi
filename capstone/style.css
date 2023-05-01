@@ -1,0 +1,212 @@
+html{
+	background-color: rgb(251, 255, 241);
+}
+
+.buttonblock{
+	position: absolute;
+	top: 50%;
+  	left: 50%;
+	transform: translate(-50%, -50%);
+	text-align: center;
+}
+
+p{
+	font-family: Jost;
+	background-color: rgb(241, 135, 1);
+	font-size: 128px;
+	color: black;
+	padding: 14px 20px;
+}
+
+.buttonlog{
+	background-color: rgb(168, 88, 218);
+	border: none;
+	font-size: 20px;
+	font-family: Oswald;
+	color: rgb(251, 255, 241);
+	padding: 14px 20px;
+	border-radius: 4px;
+	width: 250px;
+
+}
+
+.buttonlog:hover{
+	color:rgb(251, 255, 241);
+	background-color: rgb(241, 135, 1);
+}
+
+
+.sidenav {
+  height: 100%; /* Full-height: remove this if you want "auto" height */
+  width: 17%; /* Set the width of the sidebar */
+  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  background-color: rgb(168, 88, 218); /* Black */
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 300px;
+  border-right-style: solid;
+  border-color: rgb(241, 135, 1);
+}
+
+.sidebutton{
+	width: 100%;
+	border: none;
+	background-color:rgb(168, 88, 218);
+	font-size: 30px;
+	font-family: 'Oswald', sans-serif;;
+	padding: 12px 50px;
+}
+
+.sidebutton:hover{
+	color:rgb(251, 255, 241);
+	background-color: rgb(241, 135, 1);
+}
+
+.main{
+	margin-left: 20%;
+	font-family: 'Oswald', sans-serif;;
+}
+
+.card {
+	flex-basis: 30%;
+	margin: 20px;
+	padding: 20px;
+	background-color: rgb(87, 90, 94);
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	overflow: hidden;
+	font-family: 'Oswald', sans-serif;
+	width: 100%;
+}
+
+.card img {
+	max-width: 50%;
+	height: auto;
+	margin-bottom: 5px;
+	margin-left: 25%;
+}
+
+.card h2 {
+	font-size: 25px;
+	margin-bottom: 10px;
+	color: rgb(241, 135, 1);
+	background-color: rgb(251, 255, 241);
+
+}
+
+.card table{
+	color: rgb(251, 255, 241);;
+	width: 100%;
+
+}
+.card p {
+	font-size: 16px;
+	line-height: 1.5;
+	margin-bottom: 20px;
+	background-color: rgb(87, 90, 94);
+	color: ;
+}
+
+.card a {
+	display: center;
+	padding: 10px 20px;
+	background-color: rgb(241, 135, 1);
+	color: #fff;
+	border-radius: 4px;
+	text-decoration: none;
+	font-size: 16px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+.card button {
+	display: center;
+	padding: 10px 20px;
+	background-color: rgb(241, 135, 1);
+	color: #fff;
+	border-radius: 4px;
+	text-decoration: none;
+	font-size: 16px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+.card a:hover {
+	background-color: #0069d9;
+}
+
+.card button:hover {
+	background-color: #0069d9;
+}
+
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.row {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin: 0 -20px;
+}
+
+
+.col {
+	flex-basis: 30%;
+	margin: 20px;
+}
+
+.form{
+	position: absolute;
+    top: 30%;
+    left: 45%;
+}
+
+.form table{
+	font-size: 30px;
+}
+
+
+.categorybuttons{
+	position: absolute;
+	top: 50%;
+  	left: 57%;
+	transform: translate(-50%, -50%);
+	text-align: center;
+
+}
+
+.categorybuttons button{
+	font-size: 24px;
+  	text-align: center; /* Center the text within the button */
+  	padding: 32px 16px;
+  	border-radius: 4px;
+  	border: none;
+  	background-color: rgb(168, 88, 218);
+  	font-family: 'Oswald', sans-serif;
+}
+
+.categorybuttons button:hover{
+	color:rgb(251, 255, 241);
+	background-color: rgb(241, 135, 1);
+}
+
+#popup {
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  padding: 20px;
+  border: 1px solid black;
+}
+
+.highlight {
+  background-color: green;
+}

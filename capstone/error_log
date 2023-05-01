@@ -1,0 +1,636 @@
+[29-Apr-2023 17:39:51 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 10
+[29-Apr-2023 17:39:53 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 91
+[29-Apr-2023 17:40:25 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 10
+[29-Apr-2023 17:41:07 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 91
+[29-Apr-2023 17:41:10 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[29-Apr-2023 17:41:11 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[29-Apr-2023 17:41:14 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[29-Apr-2023 17:41:17 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 91
+[29-Apr-2023 17:41:30 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[29-Apr-2023 17:43:43 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[29-Apr-2023 17:44:34 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[29-Apr-2023 17:45:06 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[29-Apr-2023 17:45:19 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/create_event.php on line 12
+[29-Apr-2023 17:57:35 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/create_event.php on line 12
+[29-Apr-2023 17:57:38 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/create_event.php on line 12
+[29-Apr-2023 17:57:50 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/create_event.php on line 12
+[29-Apr-2023 17:58:17 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[29-Apr-2023 17:58:19 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/create_event.php on line 12
+[29-Apr-2023 17:58:51 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 91
+[29-Apr-2023 18:00:18 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[29-Apr-2023 18:01:05 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[29-Apr-2023 18:04:52 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/create_event.php on line 12
+[29-Apr-2023 18:05:46 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 91
+[29-Apr-2023 18:06:07 UTC] PHP Warning:  Undefined array key "username" in /home/natuahksfmwq/public_html/myprofile.php on line 90
+[29-Apr-2023 18:06:07 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 91
+[29-Apr-2023 18:14:43 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/create_event.php on line 12
+[29-Apr-2023 18:14:44 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/create_event.php on line 12
+[29-Apr-2023 18:15:36 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/create_event.php on line 12
+[29-Apr-2023 18:16:04 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/eventrequest.php on line 5
+[29-Apr-2023 18:16:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home/natuahksfmwq/public_html/eventrequest.php:36
+Stack trace:
+#0 /home/natuahksfmwq/public_html/eventrequest.php(36): mysqli_query()
+#1 {main}
+  thrown in /home/natuahksfmwq/public_html/eventrequest.php on line 36
+[29-Apr-2023 18:19:28 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/eventrequest.php on line 5
+[29-Apr-2023 18:19:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home/natuahksfmwq/public_html/eventrequest.php:36
+Stack trace:
+#0 /home/natuahksfmwq/public_html/eventrequest.php(36): mysqli_query()
+#1 {main}
+  thrown in /home/natuahksfmwq/public_html/eventrequest.php on line 36
+[29-Apr-2023 18:19:58 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/eventrequest.php on line 5
+[29-Apr-2023 18:19:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home/natuahksfmwq/public_html/eventrequest.php:36
+Stack trace:
+#0 /home/natuahksfmwq/public_html/eventrequest.php(36): mysqli_query()
+#1 {main}
+  thrown in /home/natuahksfmwq/public_html/eventrequest.php on line 36
+[29-Apr-2023 18:21:54 UTC] PHP Warning:  Undefined array key "creatoremail" in /home/natuahksfmwq/public_html/eventrequest.php on line 27
+[29-Apr-2023 18:22:36 UTC] PHP Warning:  Undefined array key "creatoremail" in /home/natuahksfmwq/public_html/eventrequest.php on line 27
+[29-Apr-2023 18:23:51 UTC] PHP Warning:  Undefined array key "creatoremail" in /home/natuahksfmwq/public_html/eventrequest.php on line 28
+[29-Apr-2023 18:28:25 UTC] PHP Warning:  Undefined array key "creatoremail" in /home/natuahksfmwq/public_html/eventrequest.php on line 28
+[29-Apr-2023 18:38:15 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[29-Apr-2023 18:45:12 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[29-Apr-2023 18:45:21 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/requests.php on line 91
+[29-Apr-2023 18:45:21 UTC] PHP Warning:  Undefined array key "fname" in /home/natuahksfmwq/public_html/requests.php on line 105
+[29-Apr-2023 18:45:21 UTC] PHP Warning:  Undefined array key "lname" in /home/natuahksfmwq/public_html/requests.php on line 105
+[29-Apr-2023 18:45:40 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/requests.php on line 91
+[29-Apr-2023 18:45:40 UTC] PHP Warning:  Undefined array key "fname" in /home/natuahksfmwq/public_html/requests.php on line 105
+[29-Apr-2023 18:45:40 UTC] PHP Warning:  Undefined array key "lname" in /home/natuahksfmwq/public_html/requests.php on line 105
+[29-Apr-2023 18:46:19 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/requests.php on line 91
+[29-Apr-2023 18:46:19 UTC] PHP Warning:  Undefined array key "fname" in /home/natuahksfmwq/public_html/requests.php on line 105
+[29-Apr-2023 18:46:19 UTC] PHP Warning:  Undefined array key "lname" in /home/natuahksfmwq/public_html/requests.php on line 105
+[29-Apr-2023 18:47:19 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/requests.php on line 91
+[29-Apr-2023 18:47:19 UTC] PHP Warning:  Undefined array key "fname" in /home/natuahksfmwq/public_html/requests.php on line 105
+[29-Apr-2023 18:47:19 UTC] PHP Warning:  Undefined array key "lname" in /home/natuahksfmwq/public_html/requests.php on line 105
+[29-Apr-2023 18:47:27 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/requests.php on line 91
+[29-Apr-2023 18:47:27 UTC] PHP Warning:  Undefined array key "fname" in /home/natuahksfmwq/public_html/requests.php on line 105
+[29-Apr-2023 18:47:27 UTC] PHP Warning:  Undefined array key "lname" in /home/natuahksfmwq/public_html/requests.php on line 105
+[29-Apr-2023 18:48:25 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/requests.php on line 91
+[29-Apr-2023 18:48:25 UTC] PHP Warning:  Undefined array key "fname" in /home/natuahksfmwq/public_html/requests.php on line 105
+[29-Apr-2023 18:48:25 UTC] PHP Warning:  Undefined array key "lname" in /home/natuahksfmwq/public_html/requests.php on line 105
+[29-Apr-2023 18:51:23 UTC] PHP Parse error:  syntax error, unexpected token "else" in /home/natuahksfmwq/public_html/requests.php on line 112
+[29-Apr-2023 18:53:05 UTC] PHP Parse error:  syntax error, unexpected token "else" in /home/natuahksfmwq/public_html/requests.php on line 112
+[29-Apr-2023 18:53:35 UTC] PHP Parse error:  syntax error, unexpected token "else" in /home/natuahksfmwq/public_html/requests.php on line 112
+[29-Apr-2023 18:53:39 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[29-Apr-2023 18:53:39 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[29-Apr-2023 18:54:58 UTC] PHP Parse error:  syntax error, unexpected token "else", expecting end of file in /home/natuahksfmwq/public_html/requests.php on line 109
+[29-Apr-2023 18:55:03 UTC] PHP Parse error:  syntax error, unexpected token "else", expecting end of file in /home/natuahksfmwq/public_html/requests.php on line 109
+[29-Apr-2023 18:56:21 UTC] PHP Parse error:  syntax error, unexpected token "else", expecting end of file in /home/natuahksfmwq/public_html/requests.php on line 109
+[29-Apr-2023 18:57:19 UTC] PHP Parse error:  syntax error, unexpected token "else", expecting end of file in /home/natuahksfmwq/public_html/requests.php on line 108
+[29-Apr-2023 18:57:22 UTC] PHP Parse error:  syntax error, unexpected token "else", expecting end of file in /home/natuahksfmwq/public_html/requests.php on line 108
+[29-Apr-2023 18:59:38 UTC] PHP Parse error:  syntax error, unexpected token "else", expecting end of file in /home/natuahksfmwq/public_html/requests.php on line 109
+[29-Apr-2023 19:00:15 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/natuahksfmwq/public_html/requests.php on line 106
+[29-Apr-2023 19:00:19 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/natuahksfmwq/public_html/requests.php on line 106
+[29-Apr-2023 19:00:46 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/requests.php on line 91
+[29-Apr-2023 19:00:46 UTC] PHP Warning:  Undefined array key "fname" in /home/natuahksfmwq/public_html/requests.php on line 105
+[29-Apr-2023 19:00:46 UTC] PHP Warning:  Undefined array key "lname" in /home/natuahksfmwq/public_html/requests.php on line 105
+[29-Apr-2023 19:04:43 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/requests.php on line 91
+[29-Apr-2023 19:04:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/natuahksfmwq/public_html/requests.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/natuahksfmwq/public_html/requests.php on line 99
+[29-Apr-2023 19:06:12 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/requests.php on line 91
+[29-Apr-2023 19:06:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/natuahksfmwq/public_html/requests.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/natuahksfmwq/public_html/requests.php on line 99
+[29-Apr-2023 19:06:31 UTC] PHP Parse error:  syntax error, unexpected token "else", expecting end of file in /home/natuahksfmwq/public_html/requests.php on line 106
+[29-Apr-2023 19:08:30 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/requests.php on line 91
+[29-Apr-2023 19:08:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/natuahksfmwq/public_html/requests.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/natuahksfmwq/public_html/requests.php on line 99
+[29-Apr-2023 19:12:18 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/requests.php on line 91
+[29-Apr-2023 19:13:12 UTC] PHP Parse error:  syntax error, unexpected identifier "mysqli_free_result" in /home/natuahksfmwq/public_html/requests.php on line 110
+[29-Apr-2023 19:14:42 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[29-Apr-2023 19:21:54 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[29-Apr-2023 19:22:22 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[29-Apr-2023 19:22:59 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 91
+[29-Apr-2023 19:23:19 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 91
+[29-Apr-2023 19:23:37 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[29-Apr-2023 19:26:47 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[29-Apr-2023 19:34:40 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[29-Apr-2023 19:34:51 UTC] PHP Parse error:  syntax error, unexpected double-quote mark, expecting "-" or identifier or variable or number in /home/natuahksfmwq/public_html/requests.php on line 107
+[29-Apr-2023 19:39:44 UTC] PHP Warning:  Undefined array key "username" in /home/natuahksfmwq/public_html/requests.php on line 93
+[30-Apr-2023 00:33:01 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[30-Apr-2023 00:33:41 UTC] PHP Warning:  Undefined array key "creatoremail" in /home/natuahksfmwq/public_html/eventrequest.php on line 28
+[30-Apr-2023 17:32:23 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[30-Apr-2023 17:32:26 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 91
+[30-Apr-2023 17:32:29 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 91
+[30-Apr-2023 17:32:32 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 91
+[30-Apr-2023 17:33:14 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[30-Apr-2023 17:33:16 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[30-Apr-2023 17:33:29 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[30-Apr-2023 17:33:36 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[30-Apr-2023 17:33:40 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[30-Apr-2023 17:33:57 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[30-Apr-2023 17:33:59 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[30-Apr-2023 17:34:23 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[30-Apr-2023 17:34:49 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[30-Apr-2023 17:34:53 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[30-Apr-2023 17:35:46 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[30-Apr-2023 17:35:57 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[30-Apr-2023 17:36:03 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[30-Apr-2023 17:37:05 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[30-Apr-2023 17:37:09 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[30-Apr-2023 17:38:15 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/accepted.php on line 9
+[30-Apr-2023 17:39:29 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[30-Apr-2023 17:39:47 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[30-Apr-2023 17:39:57 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[30-Apr-2023 17:40:01 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[30-Apr-2023 17:40:03 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[30-Apr-2023 17:40:04 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[30-Apr-2023 17:40:08 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[30-Apr-2023 17:41:55 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/sports.php on line 9
+[30-Apr-2023 17:43:29 UTC] PHP Warning:  Undefined array key "creatoremail" in /home/natuahksfmwq/public_html/eventrequest.php on line 28
+[30-Apr-2023 17:44:32 UTC] PHP Warning:  Undefined array key "creatoremail" in /home/natuahksfmwq/public_html/eventrequest.php on line 28
+[30-Apr-2023 17:44:54 UTC] PHP Warning:  Undefined array key "creatoremail" in /home/natuahksfmwq/public_html/eventrequest.php on line 28
+[30-Apr-2023 17:45:22 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/art.php on line 9
+[30-Apr-2023 17:47:30 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[30-Apr-2023 17:51:22 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[30-Apr-2023 18:03:44 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[30-Apr-2023 18:10:20 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[30-Apr-2023 18:18:02 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[30-Apr-2023 18:18:08 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[30-Apr-2023 18:18:20 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[30-Apr-2023 18:18:29 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[30-Apr-2023 18:18:44 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[30-Apr-2023 18:18:49 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[30-Apr-2023 18:18:50 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[30-Apr-2023 18:22:01 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[30-Apr-2023 18:22:08 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[30-Apr-2023 18:22:13 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[30-Apr-2023 18:24:07 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[30-Apr-2023 18:24:29 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[30-Apr-2023 18:25:08 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[30-Apr-2023 18:35:14 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[30-Apr-2023 21:52:56 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[01-May-2023 00:17:43 UTC] PHP Warning:  Undefined array key "username" in /home/natuahksfmwq/public_html/mainpage.php on line 8
+[01-May-2023 00:17:43 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[01-May-2023 00:17:43 UTC] PHP Warning:  Undefined array key "username" in /home/natuahksfmwq/public_html/create_event.php on line 11
+[01-May-2023 00:17:44 UTC] PHP Warning:  Undefined array key "username" in /home/natuahksfmwq/public_html/create_event.php on line 11
+[01-May-2023 00:17:46 UTC] PHP Warning:  Undefined array key "username" in /home/natuahksfmwq/public_html/mainpage.php on line 8
+[01-May-2023 00:17:46 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[01-May-2023 00:17:56 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[01-May-2023 00:18:14 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 00:18:15 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 00:18:19 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 00:21:13 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 00:22:10 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/mainpage.php on line 9
+[01-May-2023 00:22:15 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 00:22:20 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 00:22:22 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 00:24:44 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 10
+[01-May-2023 00:24:48 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 00:32:06 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 00:32:06 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 00:32:14 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 00:33:33 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 10
+[01-May-2023 00:33:48 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 10
+[01-May-2023 00:34:02 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/firstrequest.php on line 9
+[01-May-2023 00:34:06 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 00:34:09 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 10
+[01-May-2023 00:35:28 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 10
+[01-May-2023 00:35:31 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 00:35:33 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 10
+[01-May-2023 00:35:38 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 00:35:39 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 10
+[01-May-2023 00:35:40 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 00:35:41 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 10
+[01-May-2023 00:35:43 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 00:36:55 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 00:36:57 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 10
+[01-May-2023 00:36:59 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 00:37:01 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 10
+[01-May-2023 00:37:02 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 00:37:04 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 00:37:05 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 10
+[01-May-2023 00:37:08 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 10
+[01-May-2023 00:37:40 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 10
+[01-May-2023 00:37:44 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 10
+[01-May-2023 00:37:58 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 10
+[01-May-2023 00:38:00 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 00:38:04 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 00:38:07 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 00:38:08 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 10
+[01-May-2023 00:38:11 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/firstrequest.php on line 9
+[01-May-2023 00:38:12 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 10
+[01-May-2023 00:38:15 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 10
+[01-May-2023 00:38:17 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 10
+[01-May-2023 00:38:20 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 10
+[01-May-2023 00:38:53 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 13
+[01-May-2023 00:38:55 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 00:38:56 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 13
+[01-May-2023 00:39:01 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 13
+[01-May-2023 00:39:09 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 13
+[01-May-2023 00:39:16 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 13
+[01-May-2023 00:39:20 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 13
+[01-May-2023 00:39:22 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 13
+[01-May-2023 00:39:32 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 13
+[01-May-2023 00:39:45 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 00:39:46 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 13
+[01-May-2023 00:39:48 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 00:39:50 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 13
+[01-May-2023 00:39:51 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 00:40:27 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 00:40:28 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 00:40:30 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 00:40:34 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 00:40:47 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 00:44:45 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 00:44:48 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 00:46:26 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 00:48:33 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 00:48:57 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 00:51:03 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 00:52:26 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 00:52:57 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 00:53:34 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 00:53:37 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 00:53:40 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 00:53:47 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 00:54:48 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 00:54:50 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 00:54:53 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 00:57:26 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 00:57:30 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 00:58:46 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/firstrequest.php on line 9
+[01-May-2023 00:58:49 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 01:03:18 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 01:03:22 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 01:03:26 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 01:03:29 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 01:03:53 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 01:05:35 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 92
+[01-May-2023 01:08:20 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 93
+[01-May-2023 01:08:29 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 01:08:32 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 01:08:35 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 01:08:36 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/firstrequest.php on line 9
+[01-May-2023 01:08:38 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/firstrequest.php on line 9
+[01-May-2023 01:10:30 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/firstrequest.php on line 14
+[01-May-2023 01:10:35 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/firstrequest.php on line 14
+[01-May-2023 01:10:38 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/firstrequest.php on line 14
+[01-May-2023 01:10:41 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/firstrequest.php on line 14
+[01-May-2023 01:10:47 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 01:10:49 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 93
+[01-May-2023 01:10:53 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 93
+[01-May-2023 01:10:57 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 93
+[01-May-2023 01:12:13 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 01:12:16 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 01:12:19 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/firstrequest.php on line 14
+[01-May-2023 01:12:27 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/firstrequest.php on line 14
+[01-May-2023 01:12:31 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/firstrequest.php on line 14
+[01-May-2023 01:12:33 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 93
+[01-May-2023 01:12:41 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 01:12:45 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 01:12:47 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 01:12:54 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 01:12:57 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 01:13:10 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 01:13:13 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 01:13:15 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 01:13:17 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 01:13:35 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 01:13:38 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 01:24:23 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 01:24:27 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 01:24:30 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 93
+[01-May-2023 01:24:55 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 01:25:00 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/firstrequest.php on line 14
+[01-May-2023 01:25:03 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/firstrequest.php on line 14
+[01-May-2023 01:25:33 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/firstrequest.php on line 14
+[01-May-2023 01:25:47 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 01:25:47 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 01:25:56 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/firstrequest.php on line 14
+[01-May-2023 01:26:02 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/firstrequest.php on line 14
+[01-May-2023 01:26:03 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/firstrequest.php on line 14
+[01-May-2023 01:26:06 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/firstrequest.php on line 14
+[01-May-2023 01:27:38 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/firstrequest.php on line 14
+[01-May-2023 01:31:47 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/firstrequest.php on line 14
+[01-May-2023 01:31:52 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/firstrequest.php on line 14
+[01-May-2023 01:31:54 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 93
+[01-May-2023 01:33:46 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 01:33:50 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/firstrequest.php on line 14
+[01-May-2023 01:33:53 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/firstrequest.php on line 14
+[01-May-2023 02:00:19 UTC] PHP Warning:  Undefined array key "username" in /home/natuahksfmwq/public_html/category.php on line 13
+[01-May-2023 02:00:19 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 02:00:21 UTC] PHP Warning:  Undefined array key "username" in /home/natuahksfmwq/public_html/music.php on line 95
+[01-May-2023 02:00:23 UTC] PHP Warning:  Undefined array key "username" in /home/natuahksfmwq/public_html/category.php on line 13
+[01-May-2023 02:00:23 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 02:00:24 UTC] PHP Warning:  Undefined array key "username" in /home/natuahksfmwq/public_html/career.php on line 95
+[01-May-2023 04:25:29 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 04:25:37 UTC] PHP Warning:  Undefined variable $query in /home/natuahksfmwq/public_html/career.php on line 106
+[01-May-2023 04:25:37 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/natuahksfmwq/public_html/career.php:106
+Stack trace:
+#0 /home/natuahksfmwq/public_html/career.php(106): mysqli_query()
+#1 {main}
+  thrown in /home/natuahksfmwq/public_html/career.php on line 106
+[01-May-2023 04:25:39 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 04:25:41 UTC] PHP Warning:  Undefined variable $query in /home/natuahksfmwq/public_html/career.php on line 106
+[01-May-2023 04:25:41 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/natuahksfmwq/public_html/career.php:106
+Stack trace:
+#0 /home/natuahksfmwq/public_html/career.php(106): mysqli_query()
+#1 {main}
+  thrown in /home/natuahksfmwq/public_html/career.php on line 106
+[01-May-2023 04:27:18 UTC] PHP Warning:  Undefined variable $query in /home/natuahksfmwq/public_html/career.php on line 106
+[01-May-2023 04:27:18 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/natuahksfmwq/public_html/career.php:106
+Stack trace:
+#0 /home/natuahksfmwq/public_html/career.php(106): mysqli_query()
+#1 {main}
+  thrown in /home/natuahksfmwq/public_html/career.php on line 106
+[01-May-2023 04:27:49 UTC] PHP Warning:  Undefined variable $query in /home/natuahksfmwq/public_html/career.php on line 106
+[01-May-2023 04:27:49 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/natuahksfmwq/public_html/career.php:106
+Stack trace:
+#0 /home/natuahksfmwq/public_html/career.php(106): mysqli_query()
+#1 {main}
+  thrown in /home/natuahksfmwq/public_html/career.php on line 106
+[01-May-2023 04:27:54 UTC] PHP Warning:  Undefined variable $query in /home/natuahksfmwq/public_html/career.php on line 106
+[01-May-2023 04:27:54 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/natuahksfmwq/public_html/career.php:106
+Stack trace:
+#0 /home/natuahksfmwq/public_html/career.php(106): mysqli_query()
+#1 {main}
+  thrown in /home/natuahksfmwq/public_html/career.php on line 106
+[01-May-2023 04:28:30 UTC] PHP Warning:  Undefined variable $query in /home/natuahksfmwq/public_html/career.php on line 106
+[01-May-2023 04:28:30 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/natuahksfmwq/public_html/career.php:106
+Stack trace:
+#0 /home/natuahksfmwq/public_html/career.php(106): mysqli_query()
+#1 {main}
+  thrown in /home/natuahksfmwq/public_html/career.php on line 106
+[01-May-2023 04:28:31 UTC] PHP Warning:  Undefined variable $query in /home/natuahksfmwq/public_html/career.php on line 106
+[01-May-2023 04:28:31 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/natuahksfmwq/public_html/career.php:106
+Stack trace:
+#0 /home/natuahksfmwq/public_html/career.php(106): mysqli_query()
+#1 {main}
+  thrown in /home/natuahksfmwq/public_html/career.php on line 106
+[01-May-2023 04:28:45 UTC] PHP Warning:  Undefined variable $query in /home/natuahksfmwq/public_html/career.php on line 106
+[01-May-2023 04:28:45 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/natuahksfmwq/public_html/career.php:106
+Stack trace:
+#0 /home/natuahksfmwq/public_html/career.php(106): mysqli_query()
+#1 {main}
+  thrown in /home/natuahksfmwq/public_html/career.php on line 106
+[01-May-2023 04:28:47 UTC] PHP Warning:  Undefined variable $query in /home/natuahksfmwq/public_html/career.php on line 106
+[01-May-2023 04:28:47 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/natuahksfmwq/public_html/career.php:106
+Stack trace:
+#0 /home/natuahksfmwq/public_html/career.php(106): mysqli_query()
+#1 {main}
+  thrown in /home/natuahksfmwq/public_html/career.php on line 106
+[01-May-2023 04:29:32 UTC] PHP Warning:  Undefined variable $query in /home/natuahksfmwq/public_html/career.php on line 106
+[01-May-2023 04:29:32 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/natuahksfmwq/public_html/career.php:106
+Stack trace:
+#0 /home/natuahksfmwq/public_html/career.php(106): mysqli_query()
+#1 {main}
+  thrown in /home/natuahksfmwq/public_html/career.php on line 106
+[01-May-2023 04:29:34 UTC] PHP Warning:  Undefined variable $query in /home/natuahksfmwq/public_html/career.php on line 106
+[01-May-2023 04:29:34 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/natuahksfmwq/public_html/career.php:106
+Stack trace:
+#0 /home/natuahksfmwq/public_html/career.php(106): mysqli_query()
+#1 {main}
+  thrown in /home/natuahksfmwq/public_html/career.php on line 106
+[01-May-2023 04:29:45 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 04:29:46 UTC] PHP Warning:  Undefined variable $query in /home/natuahksfmwq/public_html/career.php on line 106
+[01-May-2023 04:29:46 UTC] PHP Fatal error:  Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in /home/natuahksfmwq/public_html/career.php:106
+Stack trace:
+#0 /home/natuahksfmwq/public_html/career.php(106): mysqli_query()
+#1 {main}
+  thrown in /home/natuahksfmwq/public_html/career.php on line 106
+[01-May-2023 04:36:42 UTC] PHP Warning:  Undefined variable $conn in /home/natuahksfmwq/public_html/career.php on line 98
+[01-May-2023 04:39:58 UTC] PHP Warning:  Undefined variable $conn in /home/natuahksfmwq/public_html/career.php on line 98
+[01-May-2023 04:41:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 131
+[01-May-2023 04:41:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 132
+[01-May-2023 04:41:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 133
+[01-May-2023 04:41:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 134
+[01-May-2023 04:41:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 135
+[01-May-2023 04:42:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 131
+[01-May-2023 04:42:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 132
+[01-May-2023 04:42:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 133
+[01-May-2023 04:42:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 134
+[01-May-2023 04:42:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 135
+[01-May-2023 04:42:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'registeredevents.eventid' in 'on clause' in /home/natuahksfmwq/public_html/myevents.php:106
+Stack trace:
+#0 /home/natuahksfmwq/public_html/myevents.php(106): mysqli_query()
+#1 {main}
+  thrown in /home/natuahksfmwq/public_html/myevents.php on line 106
+[01-May-2023 04:42:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 131
+[01-May-2023 04:42:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 132
+[01-May-2023 04:42:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 133
+[01-May-2023 04:42:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 134
+[01-May-2023 04:42:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 135
+[01-May-2023 04:42:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'registeredevents.eventid' in 'on clause' in /home/natuahksfmwq/public_html/myevents.php:106
+Stack trace:
+#0 /home/natuahksfmwq/public_html/myevents.php(106): mysqli_query()
+#1 {main}
+  thrown in /home/natuahksfmwq/public_html/myevents.php on line 106
+[01-May-2023 04:42:53 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 04:42:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 131
+[01-May-2023 04:42:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 132
+[01-May-2023 04:42:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 133
+[01-May-2023 04:42:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 134
+[01-May-2023 04:42:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 135
+[01-May-2023 04:46:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'registeredevents.eventid' in 'on clause' in /home/natuahksfmwq/public_html/myevents.php:106
+Stack trace:
+#0 /home/natuahksfmwq/public_html/myevents.php(106): mysqli_query()
+#1 {main}
+  thrown in /home/natuahksfmwq/public_html/myevents.php on line 106
+[01-May-2023 04:46:13 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 93
+[01-May-2023 04:46:21 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 04:46:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'registeredevents.eventid' in 'on clause' in /home/natuahksfmwq/public_html/myevents.php:106
+Stack trace:
+#0 /home/natuahksfmwq/public_html/myevents.php(106): mysqli_query()
+#1 {main}
+  thrown in /home/natuahksfmwq/public_html/myevents.php on line 106
+[01-May-2023 04:46:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'registeredevents.eventid' in 'on clause' in /home/natuahksfmwq/public_html/myevents.php:106
+Stack trace:
+#0 /home/natuahksfmwq/public_html/myevents.php(106): mysqli_query()
+#1 {main}
+  thrown in /home/natuahksfmwq/public_html/myevents.php on line 106
+[01-May-2023 04:46:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'registeredevents.eventid' in 'on clause' in /home/natuahksfmwq/public_html/myevents.php:106
+Stack trace:
+#0 /home/natuahksfmwq/public_html/myevents.php(106): mysqli_query()
+#1 {main}
+  thrown in /home/natuahksfmwq/public_html/myevents.php on line 106
+[01-May-2023 04:51:59 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 04:52:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 132
+[01-May-2023 04:52:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 133
+[01-May-2023 04:52:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 134
+[01-May-2023 04:52:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 135
+[01-May-2023 04:52:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 136
+[01-May-2023 04:52:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 132
+[01-May-2023 04:52:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 133
+[01-May-2023 04:52:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 134
+[01-May-2023 04:52:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 135
+[01-May-2023 04:52:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 136
+[01-May-2023 05:07:13 UTC] PHP Warning:  Undefined array key "fname" in /home/natuahksfmwq/public_html/registerprocess.php on line 109
+[01-May-2023 05:07:13 UTC] PHP Warning:  Undefined array key "lname" in /home/natuahksfmwq/public_html/registerprocess.php on line 110
+[01-May-2023 05:07:13 UTC] PHP Warning:  Undefined array key "email" in /home/natuahksfmwq/public_html/registerprocess.php on line 111
+[01-May-2023 05:07:13 UTC] PHP Warning:  Undefined array key "university" in /home/natuahksfmwq/public_html/registerprocess.php on line 112
+[01-May-2023 05:07:13 UTC] PHP Warning:  Undefined array key "dob" in /home/natuahksfmwq/public_html/registerprocess.php on line 113
+[01-May-2023 05:07:13 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/registerprocess.php on line 114
+[01-May-2023 05:07:13 UTC] PHP Warning:  Undefined variable $eventname in /home/natuahksfmwq/public_html/registerprocess.php on line 117
+[01-May-2023 05:07:13 UTC] PHP Warning:  Undefined variable $eventid in /home/natuahksfmwq/public_html/registerprocess.php on line 117
+[01-May-2023 05:07:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`unifidata`.`registeredevents`, CONSTRAINT `eventfk` FOREIGN KEY (`eventid`) REFERENCES `requestedevents` (`eventid`)) in /home/natuahksfmwq/public_html/registerprocess.php:119
+Stack trace:
+#0 /home/natuahksfmwq/public_html/registerprocess.php(119): mysqli->query()
+#1 {main}
+  thrown in /home/natuahksfmwq/public_html/registerprocess.php on line 119
+[01-May-2023 05:07:38 UTC] PHP Warning:  Undefined array key "fname" in /home/natuahksfmwq/public_html/registerprocess.php on line 109
+[01-May-2023 05:07:38 UTC] PHP Warning:  Undefined array key "lname" in /home/natuahksfmwq/public_html/registerprocess.php on line 110
+[01-May-2023 05:07:38 UTC] PHP Warning:  Undefined array key "email" in /home/natuahksfmwq/public_html/registerprocess.php on line 111
+[01-May-2023 05:07:38 UTC] PHP Warning:  Undefined array key "university" in /home/natuahksfmwq/public_html/registerprocess.php on line 112
+[01-May-2023 05:07:38 UTC] PHP Warning:  Undefined array key "dob" in /home/natuahksfmwq/public_html/registerprocess.php on line 113
+[01-May-2023 05:07:38 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/registerprocess.php on line 114
+[01-May-2023 05:07:38 UTC] PHP Warning:  Undefined variable $eventname in /home/natuahksfmwq/public_html/registerprocess.php on line 117
+[01-May-2023 05:07:38 UTC] PHP Warning:  Undefined variable $eventid in /home/natuahksfmwq/public_html/registerprocess.php on line 117
+[01-May-2023 05:07:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`unifidata`.`registeredevents`, CONSTRAINT `eventfk` FOREIGN KEY (`eventid`) REFERENCES `requestedevents` (`eventid`)) in /home/natuahksfmwq/public_html/registerprocess.php:119
+Stack trace:
+#0 /home/natuahksfmwq/public_html/registerprocess.php(119): mysqli->query()
+#1 {main}
+  thrown in /home/natuahksfmwq/public_html/registerprocess.php on line 119
+[01-May-2023 05:18:55 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 93
+[01-May-2023 05:18:57 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 05:19:00 UTC] PHP Warning:  Undefined array key "fname" in /home/natuahksfmwq/public_html/registerprocess.php on line 109
+[01-May-2023 05:19:00 UTC] PHP Warning:  Undefined array key "lname" in /home/natuahksfmwq/public_html/registerprocess.php on line 110
+[01-May-2023 05:19:00 UTC] PHP Warning:  Undefined array key "email" in /home/natuahksfmwq/public_html/registerprocess.php on line 111
+[01-May-2023 05:19:00 UTC] PHP Warning:  Undefined array key "university" in /home/natuahksfmwq/public_html/registerprocess.php on line 112
+[01-May-2023 05:19:00 UTC] PHP Warning:  Undefined array key "dob" in /home/natuahksfmwq/public_html/registerprocess.php on line 113
+[01-May-2023 05:19:00 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/registerprocess.php on line 114
+[01-May-2023 05:19:00 UTC] PHP Warning:  Undefined variable $eventname in /home/natuahksfmwq/public_html/registerprocess.php on line 117
+[01-May-2023 05:19:00 UTC] PHP Warning:  Undefined variable $eventid in /home/natuahksfmwq/public_html/registerprocess.php on line 117
+[01-May-2023 05:19:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`unifidata`.`registeredevents`, CONSTRAINT `eventfk` FOREIGN KEY (`eventid`) REFERENCES `requestedevents` (`eventid`)) in /home/natuahksfmwq/public_html/registerprocess.php:119
+Stack trace:
+#0 /home/natuahksfmwq/public_html/registerprocess.php(119): mysqli->query()
+#1 {main}
+  thrown in /home/natuahksfmwq/public_html/registerprocess.php on line 119
+[01-May-2023 05:41:42 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 05:41:48 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 05:41:53 UTC] PHP Warning:  Undefined array key "fname" in /home/natuahksfmwq/public_html/registerprocess.php on line 109
+[01-May-2023 05:41:53 UTC] PHP Warning:  Undefined array key "lname" in /home/natuahksfmwq/public_html/registerprocess.php on line 110
+[01-May-2023 05:41:53 UTC] PHP Warning:  Undefined array key "email" in /home/natuahksfmwq/public_html/registerprocess.php on line 111
+[01-May-2023 05:41:53 UTC] PHP Warning:  Undefined array key "university" in /home/natuahksfmwq/public_html/registerprocess.php on line 112
+[01-May-2023 05:41:53 UTC] PHP Warning:  Undefined array key "dob" in /home/natuahksfmwq/public_html/registerprocess.php on line 113
+[01-May-2023 05:41:53 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/registerprocess.php on line 114
+[01-May-2023 05:41:53 UTC] PHP Warning:  Undefined variable $eventname in /home/natuahksfmwq/public_html/registerprocess.php on line 117
+[01-May-2023 05:41:53 UTC] PHP Warning:  Undefined variable $eventid in /home/natuahksfmwq/public_html/registerprocess.php on line 117
+[01-May-2023 05:41:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`unifidata`.`registeredevents`, CONSTRAINT `eventfk` FOREIGN KEY (`eventid`) REFERENCES `requestedevents` (`eventid`)) in /home/natuahksfmwq/public_html/registerprocess.php:119
+Stack trace:
+#0 /home/natuahksfmwq/public_html/registerprocess.php(119): mysqli->query()
+#1 {main}
+  thrown in /home/natuahksfmwq/public_html/registerprocess.php on line 119
+[01-May-2023 05:42:23 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 15:22:28 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 15:22:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 125
+[01-May-2023 15:22:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 126
+[01-May-2023 15:22:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 125
+[01-May-2023 15:22:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 126
+[01-May-2023 15:22:31 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/natuahksfmwq/public_html/registerprocess.php on line 105
+[01-May-2023 15:22:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`unifidata`.`registeredevents`, CONSTRAINT `eventfk` FOREIGN KEY (`eventid`) REFERENCES `requestedevents` (`eventid`)) in /home/natuahksfmwq/public_html/registerprocess.php:116
+Stack trace:
+#0 /home/natuahksfmwq/public_html/registerprocess.php(116): mysqli->query()
+#1 {main}
+  thrown in /home/natuahksfmwq/public_html/registerprocess.php on line 116
+[01-May-2023 15:22:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 125
+[01-May-2023 15:22:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 126
+[01-May-2023 15:22:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 125
+[01-May-2023 15:22:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 126
+[01-May-2023 15:22:39 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/natuahksfmwq/public_html/registerprocess.php on line 105
+[01-May-2023 15:22:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`unifidata`.`registeredevents`, CONSTRAINT `eventfk` FOREIGN KEY (`eventid`) REFERENCES `requestedevents` (`eventid`)) in /home/natuahksfmwq/public_html/registerprocess.php:116
+Stack trace:
+#0 /home/natuahksfmwq/public_html/registerprocess.php(116): mysqli->query()
+#1 {main}
+  thrown in /home/natuahksfmwq/public_html/registerprocess.php on line 116
+[01-May-2023 15:22:55 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 15:22:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 125
+[01-May-2023 15:22:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 126
+[01-May-2023 15:26:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 125
+[01-May-2023 15:26:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 126
+[01-May-2023 15:26:50 UTC] PHP Warning:  Undefined variable $row in /home/natuahksfmwq/public_html/variables.php on line 25
+[01-May-2023 15:26:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/variables.php on line 25
+[01-May-2023 15:26:50 UTC] PHP Warning:  Undefined variable $row in /home/natuahksfmwq/public_html/variables.php on line 26
+[01-May-2023 15:26:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/variables.php on line 26
+[01-May-2023 15:26:50 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/natuahksfmwq/public_html/registerprocess.php on line 105
+[01-May-2023 15:26:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`unifidata`.`registeredevents`, CONSTRAINT `eventfk` FOREIGN KEY (`eventid`) REFERENCES `requestedevents` (`eventid`)) in /home/natuahksfmwq/public_html/registerprocess.php:116
+Stack trace:
+#0 /home/natuahksfmwq/public_html/registerprocess.php(116): mysqli->query()
+#1 {main}
+  thrown in /home/natuahksfmwq/public_html/registerprocess.php on line 116
+[01-May-2023 15:28:52 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 15:28:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 125
+[01-May-2023 15:28:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 126
+[01-May-2023 15:28:55 UTC] PHP Warning:  Undefined variable $row in /home/natuahksfmwq/public_html/variables.php on line 25
+[01-May-2023 15:28:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/variables.php on line 25
+[01-May-2023 15:28:55 UTC] PHP Warning:  Undefined variable $row in /home/natuahksfmwq/public_html/variables.php on line 26
+[01-May-2023 15:28:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/variables.php on line 26
+[01-May-2023 15:28:55 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/natuahksfmwq/public_html/registerprocess.php on line 105
+[01-May-2023 15:28:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`unifidata`.`registeredevents`, CONSTRAINT `eventfk` FOREIGN KEY (`eventid`) REFERENCES `requestedevents` (`eventid`)) in /home/natuahksfmwq/public_html/registerprocess.php:116
+Stack trace:
+#0 /home/natuahksfmwq/public_html/registerprocess.php(116): mysqli->query()
+#1 {main}
+  thrown in /home/natuahksfmwq/public_html/registerprocess.php on line 116
+[01-May-2023 15:29:35 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 93
+[01-May-2023 15:29:37 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 93
+[01-May-2023 15:29:38 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 15:29:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 125
+[01-May-2023 15:29:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 126
+[01-May-2023 15:29:40 UTC] PHP Warning:  Undefined variable $row in /home/natuahksfmwq/public_html/variables.php on line 25
+[01-May-2023 15:29:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/variables.php on line 25
+[01-May-2023 15:29:40 UTC] PHP Warning:  Undefined variable $row in /home/natuahksfmwq/public_html/variables.php on line 26
+[01-May-2023 15:29:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/variables.php on line 26
+[01-May-2023 15:29:40 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/natuahksfmwq/public_html/registerprocess.php on line 105
+[01-May-2023 15:29:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`unifidata`.`registeredevents`, CONSTRAINT `eventfk` FOREIGN KEY (`eventid`) REFERENCES `requestedevents` (`eventid`)) in /home/natuahksfmwq/public_html/registerprocess.php:116
+Stack trace:
+#0 /home/natuahksfmwq/public_html/registerprocess.php(116): mysqli->query()
+#1 {main}
+  thrown in /home/natuahksfmwq/public_html/registerprocess.php on line 116
+[01-May-2023 15:31:14 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 93
+[01-May-2023 15:31:15 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 93
+[01-May-2023 15:31:16 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 15:31:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 125
+[01-May-2023 15:31:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 126
+[01-May-2023 15:31:18 UTC] PHP Warning:  Undefined variable $row in /home/natuahksfmwq/public_html/variables.php on line 25
+[01-May-2023 15:31:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/variables.php on line 25
+[01-May-2023 15:31:18 UTC] PHP Warning:  Undefined variable $row in /home/natuahksfmwq/public_html/variables.php on line 26
+[01-May-2023 15:31:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/variables.php on line 26
+[01-May-2023 15:31:18 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/natuahksfmwq/public_html/registerprocess.php on line 108
+[01-May-2023 15:31:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`unifidata`.`registeredevents`, CONSTRAINT `eventfk` FOREIGN KEY (`eventid`) REFERENCES `requestedevents` (`eventid`)) in /home/natuahksfmwq/public_html/registerprocess.php:119
+Stack trace:
+#0 /home/natuahksfmwq/public_html/registerprocess.php(119): mysqli->query()
+#1 {main}
+  thrown in /home/natuahksfmwq/public_html/registerprocess.php on line 119
+[01-May-2023 15:31:43 UTC] PHP Warning:  Undefined variable $row in /home/natuahksfmwq/public_html/variables.php on line 25
+[01-May-2023 15:31:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/variables.php on line 25
+[01-May-2023 15:31:43 UTC] PHP Warning:  Undefined variable $row in /home/natuahksfmwq/public_html/variables.php on line 26
+[01-May-2023 15:31:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/variables.php on line 26
+[01-May-2023 15:31:43 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/natuahksfmwq/public_html/registerprocess.php on line 108
+[01-May-2023 15:31:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`unifidata`.`registeredevents`, CONSTRAINT `eventfk` FOREIGN KEY (`eventid`) REFERENCES `requestedevents` (`eventid`)) in /home/natuahksfmwq/public_html/registerprocess.php:119
+Stack trace:
+#0 /home/natuahksfmwq/public_html/registerprocess.php(119): mysqli->query()
+#1 {main}
+  thrown in /home/natuahksfmwq/public_html/registerprocess.php on line 119
+[01-May-2023 15:31:44 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/myprofile.php on line 93
+[01-May-2023 15:31:46 UTC] PHP Warning:  Undefined array key "password" in /home/natuahksfmwq/public_html/category.php on line 14
+[01-May-2023 15:31:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 125
+[01-May-2023 15:31:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/career.php on line 126
+[01-May-2023 15:31:49 UTC] PHP Warning:  Undefined variable $row in /home/natuahksfmwq/public_html/variables.php on line 25
+[01-May-2023 15:31:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/variables.php on line 25
+[01-May-2023 15:31:49 UTC] PHP Warning:  Undefined variable $row in /home/natuahksfmwq/public_html/variables.php on line 26
+[01-May-2023 15:31:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/variables.php on line 26
+[01-May-2023 15:31:49 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/natuahksfmwq/public_html/registerprocess.php on line 108
+[01-May-2023 15:31:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`unifidata`.`registeredevents`, CONSTRAINT `eventfk` FOREIGN KEY (`eventid`) REFERENCES `requestedevents` (`eventid`)) in /home/natuahksfmwq/public_html/registerprocess.php:119
+Stack trace:
+#0 /home/natuahksfmwq/public_html/registerprocess.php(119): mysqli->query()
+#1 {main}
+  thrown in /home/natuahksfmwq/public_html/registerprocess.php on line 119
+[01-May-2023 15:34:10 UTC] PHP Warning:  Undefined variable $row in /home/natuahksfmwq/public_html/variables.php on line 25
+[01-May-2023 15:34:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/variables.php on line 25
+[01-May-2023 15:34:10 UTC] PHP Warning:  Undefined variable $row in /home/natuahksfmwq/public_html/variables.php on line 26
+[01-May-2023 15:34:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/variables.php on line 26
+[01-May-2023 15:34:16 UTC] PHP Warning:  Undefined variable $row in /home/natuahksfmwq/public_html/variables.php on line 25
+[01-May-2023 15:34:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/variables.php on line 25
+[01-May-2023 15:34:16 UTC] PHP Warning:  Undefined variable $row in /home/natuahksfmwq/public_html/variables.php on line 26
+[01-May-2023 15:34:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/natuahksfmwq/public_html/variables.php on line 26
+[01-May-2023 15:36:08 UTC] PHP Parse error:  syntax error, unexpected variable "$eventname" in /home/natuahksfmwq/public_html/variables.php on line 26
+[01-May-2023 15:36:10 UTC] PHP Parse error:  syntax error, unexpected variable "$eventname" in /home/natuahksfmwq/public_html/variables.php on line 26
+[01-May-2023 15:43:00 UTC] PHP Parse error:  syntax error, unexpected variable "$eventname" in /home/natuahksfmwq/public_html/variables.php on line 26
+[01-May-2023 15:43:01 UTC] PHP Parse error:  syntax error, unexpected variable "$eventname" in /home/natuahksfmwq/public_html/variables.php on line 26
+[01-May-2023 15:45:43 UTC] PHP Parse error:  syntax error, unexpected token "echo" in /home/natuahksfmwq/public_html/variables.php on line 26
+[01-May-2023 15:45:45 UTC] PHP Parse error:  syntax error, unexpected token "echo" in /home/natuahksfmwq/public_html/variables.php on line 26
